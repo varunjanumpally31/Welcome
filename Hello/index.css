@@ -1,0 +1,33 @@
+	        a:link
+			{
+				color : red;
+				border-width: 2px;
+				border-color: yellow;
+			}
+			a:visited
+			{
+				color : green;
+				border-width:  2px;
+				border-color: pink;
+
+			}
+			a:hover
+			{
+				color: yellow;
+				border-width: 2px;
+				border-color: yellow;
+				background-color: yellow;
+			}
+			a:active
+			{
+				color: green;
+				border-width: 2px;
+				border-color: yellow;
+			}
+			body
+			{
+				background-image: url(/background.jpg);
+			}
+
+
+		
